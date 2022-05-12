@@ -1,7 +1,7 @@
-- 👋 Oi,meu nome é Rafaela 
-- 👀 Estou interessada em aprender mais sobre programação
-- 🌱 atualemnte estou aprendendo sobre github
-- 💞️ não tenho conhecimento sobre programação mais quero aprender mais sobre o assunto!
+- 👋 Oi,meu nome é Rafaela!
+- 👀 Estou interessada em aprender mais sobre programação...
+- 🌱 [atualmente estou aprendendo sobre GitHub]
+- 💞️ não tenho conhecimento sobre programação mas quero aprender mais sobre o assunto!
 - 📫 !
 
 <!---
